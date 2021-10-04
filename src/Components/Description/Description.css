@@ -1,0 +1,9 @@
+.description-color{
+    background-color: rgb(137, 144, 112);
+    margin: 50px;
+    padding: 30px;
+    height: 200px;
+    line-height: 50px;
+   color: whitesmoke;
+   border-radius: 20px;
+}

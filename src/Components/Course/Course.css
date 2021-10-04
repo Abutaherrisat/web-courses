@@ -1,0 +1,27 @@
+.card {
+    height: 550px!important;
+    border-radius: 20px !important;
+    width: 400px !important;
+    background-color: teal !important;
+}
+
+.cart-container {
+    background-color: darkslategrey;
+}
+
+.img-style {
+    width: 180px !important;
+    height: 200px!important;
+    border-radius: 50% !important;
+    border: 4px solid rgb(13, 200, 246);
+}
+
+.btn-regular {
+    background-image: linear-gradient(90deg, yellow, goldenRod);
+    font-size: 15px;
+    width: 150px;
+    border: 1px solid gray;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
